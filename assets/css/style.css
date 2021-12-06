@@ -126,7 +126,6 @@ p {
 
 /*Sidebar*/
 
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -186,8 +185,7 @@ p {
     max-width: 150px;
 }
 
-
-
+/* FOOTER */
 .footer {
     padding: 30px;
     clear: both;
