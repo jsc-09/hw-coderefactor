@@ -52,11 +52,8 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*Body Content */
 
-
-
-
+/*Body Content LEFT */
 .content {
     width: 75%;
     display: inline-block;
@@ -117,9 +114,6 @@ p {
     font-size: 36px;
 }
 
-
-
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -130,6 +124,7 @@ p {
     margin-left: 25px;
 }
 
+/*Sidebar*/
 
 
 .benefits {
